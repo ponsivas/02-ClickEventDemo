@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">J2_EditTextSquare</string>
+    <string name="enter_the_number_to_get_square_value">Enter the Number and Touch the Square Value EditText Widget</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="square_value">Square Value</string>
+    <string name="clear">CLEAR</string>
+    <string name="dr_p_sivaram">Dr.P.Sivaram</string>
+</resources>
